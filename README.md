@@ -2,7 +2,7 @@
 
 A 3D block-building game in the spirit of early Minecraft Pocket Edition (Alpha-era), built **from scratch** for real Nintendo DS Lite hardware — no official SDK, no devkitPro/BlocksDS. The ARM9/ARM7 startup code, linker script, `.nds` packer and DLDI stub were all written by hand. Tested on **real hardware** via an R4-style flashcart, not just an emulator.
 
-![Title screen](screenshots/title_screen.png)
+![Title screen](title_screen.png)
 
 > Korean documentation: [README.ko.md](README.ko.md)
 
@@ -32,11 +32,11 @@ This is a personal, non-commercial homebrew project. It does not use any Mojang/
 
 | Mode select | Survival gameplay | Creative inventory |
 |---|---|---|
-| ![Mode select](screenshots/mode_select.png) | ![Survival](screenshots/gameplay_survival.png) | ![Creative inventory](screenshots/creative_inventory_blocks.png) |
+| ![Mode select](mode_select.png) | ![Survival](gameplay_survival.png) | ![Creative inventory](creative_inventory_blocks.png) |
 
 | New items/blocks | Spectator mode |
 |---|---|
-| ![Items](screenshots/creative_inventory_items.png) | ![Spectator](screenshots/spectator_mode.png) |
+| ![Items](creative_inventory_items.png) | ![Spectator](spectator_mode.png) |
 
 ## Controls
 
